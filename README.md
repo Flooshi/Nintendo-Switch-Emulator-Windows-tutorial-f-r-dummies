@@ -57,8 +57,7 @@ Ganz einfach
 --FERTIG--
 
 --WICHTIG!!--
-Vulkan ist für AMD Karten und OpenGL für Nvidia Karten
-stell unten links im Yuzu Fenster deine CPU auf HOCH
+stell unten links im Yuzu Fenster deine CPU auf HOCH oder auf Normal wenn ihr lags bekommen solltet.
 stelle auf FSR für schöne Ergebnisse
 vergiss nicht, deine Spiele richtig einzustellen. Das kannst du auch bei den Eigenschaften des jeweiligen Spiels machenm damit sind Änderungen nicht Global
 
